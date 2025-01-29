@@ -1,6 +1,6 @@
-﻿namespace TheSimpleShopApi.Domain.Entities
+﻿namespace TheSimpleShopApi.Domain.Entities.Products
 {
-    public class ProductCategory : AuditEntity
+    public class ProductCategory
     {
         public Guid Id { get; set; }
         public required string Name { get; set; }
