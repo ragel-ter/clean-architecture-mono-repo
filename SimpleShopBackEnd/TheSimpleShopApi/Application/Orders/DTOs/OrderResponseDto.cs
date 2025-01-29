@@ -6,5 +6,6 @@ namespace TheSimpleShopApi.Application.Orders.DTOs
     {
         public bool Success { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public string Message { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public List<string> ForwardLinks { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }
