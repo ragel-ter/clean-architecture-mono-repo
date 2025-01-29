@@ -1,0 +1,35 @@
+# Angular build artifacts
+/dist
+/out-tsc
+
+# Node.js dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Angular specific
+.angular/cache
+.angular/cli
+
+# Compiled output
+*.js
+*.d.ts
+*.js.map
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
